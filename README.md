@@ -1,5 +1,5 @@
-# Problem Solving with Algorithms and Data Structures Using Python SECOND EDITIONPython #
-** By Brad Miller and David Ranum, Luther College (as remixed by Jeffrey Elkner) **
+# Problem Solving with Algorithms and Data Structures Using Python #
+**By Brad Miller and David Ranum, Luther College (as remixed by Jeffrey Elkner)**
 
 **Summary**
 This is summmy the main ideal from the book proble solving with Algorithms and Data Structurea using Python By Hoai Tran.
@@ -12,5 +12,5 @@ You may still be struggling with some of the basic ideas and skills from a first
 
 The tools and techniques that you learn here will be applied over and over as you continue your study of computer science.
 
-If you can afford it, Should buy it at Amazon: [Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
-If you want to see full text of this book, visit this website: [openbookproject](http://www.openbookproject.net/books/pythonds/)
+If you can afford it, Should buy it at Amazon: [Problem Solving with Algorithms and Data Structures Using Python 2rd](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
+. If you want to see full text of this book, visit this website: [openbookproject](http://www.openbookproject.net/books/pythonds/)
